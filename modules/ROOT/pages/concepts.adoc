@@ -1,0 +1,10 @@
+include::_partials/attributes.adoc[]
+
+:context: concepts
+
+[concepts]
+= About ingredients
+
+
+include::_partials/hotpeper.adoc[leveloffset=1]
+include::test.adoc[leveloffset=1]

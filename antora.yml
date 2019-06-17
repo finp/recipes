@@ -1,5 +1,5 @@
-name: arotna
-title: Arotna
+name: recipes
+title: Recipes
 version: 'latest'
 start_ROOT: ROOT:index.adoc
 nav:

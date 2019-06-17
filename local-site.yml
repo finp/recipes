@@ -1,7 +1,7 @@
 site:
-  title: Arotna
+  title: Recipes
   url: http://arotna.org
-  start_page: arotna::index 
+  start_page: recipes::index 
 content:
   sources:
   - url: .

@@ -1,0 +1,4 @@
+= Page Used as an Include
+:page-partial:
+
+Page contents.
